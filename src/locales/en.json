@@ -1,0 +1,39 @@
+{
+  "home": "Home",
+  "about": "About",
+  "skills": "Skills",
+  "projects": "Projects",
+  "contact": "Contact",
+  "languages": "Languages",
+  "hero": "I'm Shomalik Davlatov, Full Stack Developer.",
+  "subtitle": "Code is my form of expression.",
+  "footer": {
+    "copyright": "© {{year}} Shomalik's portfolio. All rights reserved.",
+    "built": "Built with React and Tailwind CSS"
+  },
+  "aboutt": {
+    "p1": "Hello!",
+    "p2": "I am Shomalik Davlatov — a Full Stack Developer.",
+    "p3": "I build user-friendly, fast, and functional frontend and backend solutions using modern web technologies like ExpressJs, Nest, React...",
+    "p4": "My passion for programming began with a desire to create useful products through every line of code.",
+    "p5": "To me, code is a form of expression, and design is a reflection of thought. Minimalism is my core principle.",
+    "p6": "My goal is to find practical solutions to problems through technology and create products that genuinely serve users."
+  },
+  "myskills": {
+    "title": "Skills",
+    "description": "I have experience working with the following technologies."
+  },
+  "myprojects": {
+    "title": "My Projects",
+    "taskAppDescription": "A video platform inspired by YouTube.",
+    "taskAppDescription2": "A test project with movie cards and search functionality.",
+    "taskAppDescription3": "An ERP system project for large-scale enterprises."
+  },
+  "submittedData": "Submitted Data",
+  "messageSent": "Your message has been sent",
+  "contactUs": "Contact Me",
+  "yourName": "Your Name",
+  "yourEmail": "Your Email",
+  "yourMessage": "Your Message",
+  "send": "Send"
+}

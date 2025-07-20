@@ -1,0 +1,39 @@
+{
+  "home": "Bosh Sahifa",
+  "about": "Men Haqimda",
+  "skills": "Ko'nikmalar",
+  "projects": "Loyihalar",
+  "contact": "Bog'lanish",
+  "languages": "Tillar",
+  "hero": "Men Shomalik Davlatov, Full Stack dasturchi.",
+  "subtitle": "Kod — mening ifoda uslubim.",
+  "footer": {
+    "copyright": "© {{year}} Shomalikning portfoliosi. Barcha huquqlar himoyalangan.",
+    "built": "React va TailwindCSS yordamida yaratilgan"
+  },
+  "aboutt": {
+    "p1": "Assalomu alaykum!",
+    "p2": "Men Shomalik Davlatov — Full Stack dasturchiman.",
+    "p3": "ExpressJs, Nest, React va zamonaviy veb texnologiyalar yordamida foydalanuvchi uchun qulay, tezkor va estetik veb sahifalar yarataman.",
+    "p4": "Dasturlashga bo'lgan ishtiyoqim — har bir satr kod orqali foydali mahsulot yaratishga intilishimdan boshlanadi.",
+    "p5": "Men uchun kod — bu ifoda uslubi, dizayn esa tafakkurning aksidir. Minimalizm — asosiy tamoyilim.",
+    "p6": "Maqsadim — texnologiya orqali muammolarga amaliy yechimlar topish va foydalanuvchilarga chin dildan xizmat qiladigan mahsulotlar ishlab chiqish."
+  },
+  "myskills": {
+    "title": "Ko'nikmalar",
+    "description": "Quyidagi texnologiyalar bilan ishlash bo'yicha tajribam bor."
+  },
+  "myprojects": {
+    "title": "Loyihalarim",
+    "taskAppDescription": "YouTube ilhomi asosida ishlangan video platforma.",
+    "taskAppDescription2": "Film kartochkalari va izlash imkoniyati bilan ishlangan sinov loyihasi.",
+    "taskAppDescription3": "Katta miqyosli korxonalar uchun ERP tizimi loyihasi."
+  },
+  "submittedData": "Yuborilgan ma'lumot",
+  "messageSent": "Xabaringiz yuborildi",
+  "contactUs": "Men bilan bog'laning",
+  "yourName": "Ismingiz",
+  "yourEmail": "Email manzilingiz",
+  "yourMessage": "Xabaringiz",
+  "send": "Yuborish"
+}
