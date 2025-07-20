@@ -66,8 +66,8 @@ export default function Navbar() {
                   <img
                       src={
                           theme === "dark"
-                              ? "./src/assets/logo-white.svg"
-                              : "./src/assets/logo-black.svg"
+                              ? "/logo-white.svg"
+                              : "/logo-black.svg"
                       }
                       alt="logo"
                       className="w-[40px]"
